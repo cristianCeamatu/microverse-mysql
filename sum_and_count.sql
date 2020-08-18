@@ -1,0 +1,1 @@
+https://sqlzoo.net/wiki/SUM_and_COUNT_Quiz Your score is: 8 out of 8
